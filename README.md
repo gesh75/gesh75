@@ -7,7 +7,7 @@ Multivendor networks (Juniper · Arista · Cisco · Palo Alto · Fortinet) · BG
 
 ### 🗂️ [Project documentation hub → gesh75.github.io](https://gesh75.github.io/)
 
-All my network & AI engineering projects, documented in one place — animated one-page docs with architecture diagrams.
+Live one-page docs (with architecture diagrams) for my multivendor network automation & on-prem/agentic-LLM projects: air-gapped change validation, 26-device AI lab, network log RCA, 52K-command CLI configurator, and an AI network-ops platform.
 
 | Project | What it is | Docs |
 |---|---|---|
