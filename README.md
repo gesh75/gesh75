@@ -10,19 +10,19 @@ The working name for the stack is **GESH**.
 
 ### Docs hub → [gesh75.github.io](https://gesh75.github.io/)
 
-Live one-page docs (with architecture diagrams) for my multivendor network automation, AI-for-NetOps, and security projects.
+Command-center docs hub (Aegis visual language — dark navy, teal / emerald / amber, glass, animated closed-loop diagrams) for the public labs.
 
 | System | What it is | Docs |
 |---|---|---|
-| **[multivendor-ai-network-lab](https://github.com/gesh75/multivendor-ai-network-lab)** | 26-device lab that closes the loop — Pydantic-AI orchestrator, 68 MCP tools, risk-gated auto-remediation, RFC 6241 confirmed-commit rollback, immutable GAIT audit. | [docs](https://gesh75.github.io/multivendor-ai-network-lab/) |
-| **[argus](https://github.com/gesh75/argus)** | Agentic AI pentester — reasons, chains & adapts across network/host/AD/web, read-only behind a fail-closed 7-layer guardrail. HMAC-audited. Claude / Ollama / offline. | [docs](https://gesh75.github.io/argus/) |
-| **[aegis](https://github.com/gesh75/aegis)** | Air-gapped pre-deployment change validation against a real containerlab digital twin. Sealed PCI/SOC2/NIST evidence. Zero egress. | [docs](https://gesh75.github.io/aegis/) |
-| **[multivendor-cli-configurator](https://github.com/gesh75/multivendor-cli-configurator)** | 70,000+ CLI commands across 17 vendors — searchable N-vendor compare + NETCONF/Ansible drawer. Single HTML, zero deps. | [docs](https://gesh75.github.io/multivendor-cli-configurator/docs/) |
-| **[netlog-ai](https://github.com/gesh75/netlog-ai)** | Sanitize-first AI log analyzer (Junos / EOS / FRR). LLM root-cause playbooks. 139 tests. | [docs](https://gesh75.github.io/netlog-ai/) |
+| **[multivendor-ai-network-lab](https://github.com/gesh75/multivendor-ai-network-lab)** | 26-device lab that remediates — Phase 6 Lab Ops portal, 69 MCP tools, RFC 6241 confirmed-commit, honest GAIT. | [portal](https://gesh75.github.io/multivendor-ai-network-lab/portal.html) |
+| **[argus](https://github.com/gesh75/argus)** | Fail-closed defensive assessment orchestrator — 7-layer guardrail, OOB HMAC signer, supervised V1. Unattended mode locked. | [docs](https://gesh75.github.io/argus/) |
+| **[aegis](https://github.com/gesh75/aegis)** | Air-gapped change validation. v0.2.0: 11 frameworks, bounded autonomy, detached Ed25519 seals. Zero egress. | [docs](https://gesh75.github.io/aegis/) |
+| **[multivendor-cli-configurator](https://github.com/gesh75/multivendor-cli-configurator)** | 70,000+ CLI commands across 17 vendors — searchable cheatsheet **plus CLI Studio** (intent, migrate, recipes, FRR lab). | [docs](https://gesh75.github.io/multivendor-cli-configurator/) |
+| **[netlog-ai](https://github.com/gesh75/netlog-ai)** | Sanitize-first AI log analyzer. 0.6 in flight: Grok, causal timeline, 80 patterns, 423 tests, MCP connectors. | [docs](https://gesh75.github.io/netlog-ai/) |
 | **[napalm-live-lab](https://github.com/gesh75/napalm-live-lab)** | Honest, live NAPALM coverage matrix + safe-by-default command console — Arista cEOS / Nokia SR Linux / FRR. | [docs](https://gesh75.github.io/napalm-live-lab/) |
-| **[network-observability-architecture](https://github.com/gesh75/network-observability-architecture)** | Vendor-neutral reference architecture for network observability and source-of-truth management. | [docs](https://gesh75.github.io/network-observability-architecture/) |
+| **[network-observability-architecture](https://github.com/gesh75/network-observability-architecture)** | v2.0 interactive console: OTLP/Alloy, Tempo, gNMI, freshness SLOs, dual-signal lab, read-only AI control plane. | [docs](https://gesh75.github.io/network-observability-architecture/) |
 | **[claude-mastery-hub](https://github.com/gesh75/claude-mastery-hub)** | Interactive guide to Claude — app, Claude Code, API, MCP, skills, subagents & hooks. | [docs](https://gesh75.github.io/claude-mastery-hub/) |
-| **[claude-skill-lint](https://github.com/gesh75/claude-skill-lint)** | Zero-dependency linter for Claude Code skills — frontmatter, progressive disclosure, dead refs, stale model IDs. | [source](https://github.com/gesh75/claude-skill-lint) |
+| **[claude-skill-lint](https://github.com/gesh75/claude-skill-lint)** | v0.5 linter — 90+ checks, 2026 model IDs, computer-use safety, 22-skill NetOps pack. | [docs](https://gesh75.github.io/claude-skill-lint/) |
 
 **Doctrine:** fail closed · sanitize first · evidence leaves, packets don’t · honest coverage.
 
@@ -31,7 +31,7 @@ Live one-page docs (with architecture diagrams) for my multivendor network autom
 ### Tech
 
 `Juniper` `Arista` `Cisco` `Palo Alto` `Fortinet` `FRR` `VyOS` · `BGP/MPLS` `SD-WAN` `SASE` `Zero Trust`  
-`Python` `FastAPI` `Ansible` `Nornir` `Containerlab` · `Anthropic Claude` `Pydantic-AI` `on-prem LLMs` · `Docker`
+`Python` `FastAPI` `Ansible` `Nornir` `Containerlab` · `Anthropic Claude` `Grok` `Pydantic-AI` `on-prem LLMs` · `Docker`
 
 ### Connect
 
