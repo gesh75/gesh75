@@ -1,0 +1,15 @@
+name: README link check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check README outbound links
+        run: python3 scripts/check_readme_links.py

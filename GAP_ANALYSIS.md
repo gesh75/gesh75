@@ -1,5 +1,10 @@
 # Gap analysis — gesh75/gesh75
 
+> Merge note (2026-09-20): `origin/main` was merged into this Cursor gap-scan
+> branch. Unique scan/fix work from the PR is kept. Do not drop later main
+> changes in other files.
+
+
 Profile-README repo. Public surface is `README.md` (GitHub profile) plus leftover
 `handoff/` from a prior Cloud Agent. This scan verified live URLs and claim
 drift against source repos and [gesh75.github.io](https://gesh75.github.io/).
