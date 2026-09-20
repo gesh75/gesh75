@@ -1,0 +1,13 @@
+name: links
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  readme-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check README HTTP links
+        run: python3 scripts/check_readme_links.py
