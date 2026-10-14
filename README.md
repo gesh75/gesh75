@@ -8,6 +8,19 @@ The working name for the stack is **GESH**.
 
 ---
 
+### Featured: [netlog-ai](https://github.com/gesh75/netlog-ai) v1.1.0 · [PyPI](https://pypi.org/project/netlog-ai/)
+
+AI-assisted network log analysis for NetOps:
+- Causal root-cause analysis across a 5-layer EVPN-VXLAN model, with downstream alarm suppression
+- 90%+ log-storm compression
+- Reversible sanitization vault before any LLM call
+- Change plans with rollback-timer remediation (Junos, EOS, NX-OS, IOS-XE)
+- 579 tests · 15 MCP tools
+
+`pip install netlog-ai` · [docs](https://gesh75.github.io/netlog-ai/)
+
+---
+
 ### Docs hub → [gesh75.github.io](https://gesh75.github.io/)
 
 Command-center docs hub (Aegis visual language — dark navy, teal / emerald / amber, glass, animated closed-loop diagrams) for the public labs.
@@ -18,7 +31,6 @@ Command-center docs hub (Aegis visual language — dark navy, teal / emerald / a
 | **[argus](https://github.com/gesh75/argus)** | Fail-closed defensive assessment orchestrator — 7-layer guardrail, OOB HMAC signer, supervised V1, 315 tests. Unattended mode locked. | [docs](https://gesh75.github.io/argus/) |
 | **[aegis](https://github.com/gesh75/aegis)** | Air-gapped change validation. v0.2.0: 11 frameworks, HMAC approval tokens (aegis1.), bounded autonomy, detached Ed25519 seals. Zero egress. | [docs](https://gesh75.github.io/aegis/) |
 | **[multivendor-cli-configurator](https://github.com/gesh75/multivendor-cli-configurator)** | 70,000+ CLI commands across 17 vendors — searchable cheatsheet **plus CLI Studio** (intent, migrate, recipes, FRR lab). | [docs](https://gesh75.github.io/multivendor-cli-configurator/) |
-| **[netlog-ai](https://github.com/gesh75/netlog-ai)** | Sanitize-first AI log analyzer. v0.6.0: Grok, causal timeline, 80 patterns, 423 tests, MCP connectors. | [docs](https://gesh75.github.io/netlog-ai/) |
 | **[napalm-live-lab](https://github.com/gesh75/napalm-live-lab)** | Honest, live NAPALM coverage matrix + safe-by-default command console — Arista cEOS / Nokia SR Linux / FRR. | [docs](https://gesh75.github.io/napalm-live-lab/) |
 | **[network-observability-architecture](https://github.com/gesh75/network-observability-architecture)** | v2.0 interactive console: OTLP/Alloy, Tempo, gNMI, freshness SLOs, dual-signal lab, read-only AI control plane. | [docs](https://gesh75.github.io/network-observability-architecture/) |
 | **[claude-mastery-hub](https://github.com/gesh75/claude-mastery-hub)** | Interactive guide to Claude — app, Claude Code, API, MCP, skills, subagents & hooks. | [docs](https://gesh75.github.io/claude-mastery-hub/) |
